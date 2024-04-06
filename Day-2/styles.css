@@ -11,3 +11,16 @@ h1{
     color: red;
     text-align: center;
 }
+.Syntax{
+    background-color: yellow;
+    width:200px;
+    padding: 25px;
+    border: 1px solid green;
+}
+#selectors{
+    background-color: blue;
+    margin: 10px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+}

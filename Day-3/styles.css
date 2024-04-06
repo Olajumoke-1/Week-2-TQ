@@ -1,0 +1,21 @@
+header{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+nav ul{
+    width: 20%;
+    padding: 10px;
+}
+article{
+    width: 70%;
+    padding: 0px 20px 0px 20px;
+}
+aside{
+    width: 25%;
+    padding: 10px;
+    border: 1px solid black;
+}
+footer{
+    margin: 10px 0px 20px 0px;
+}
